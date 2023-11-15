@@ -17,12 +17,12 @@ services:
 # Refresh the page every time you get a new token.
 # If you have a lot of subscriptions, make sure to get at least 5 tokens.
 #                            ↓ Replace with your access tokens ↓
-      - TELEGRAPH_TOKEN=
-        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
-        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
-        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
-        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
-        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
+#      - TELEGRAPH_TOKEN=
+#        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
+#        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
+#        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
+#        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
+#        1a23b456c78de90f1a23b456c78de90f1a23b456c78de90f1a23b456c78d
 # ↑------ To disable sending via Telegraph, comment out this area ------↑ #
 
 # Please read https://github.com/Rongronggg9/RSS-to-Telegram-Bot/blob/master/docs/advanced-settings.md for more details.
